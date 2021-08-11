@@ -26,8 +26,9 @@ const [tasks, setTasks] = useState([
   }
 ])
 
-const nombre = 'Ricardo'
+const nombre = 'JC'
 const x = true
+const y = false
 
   return (
     <div>
